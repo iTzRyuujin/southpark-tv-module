@@ -1,0 +1,12 @@
+{
+  "name": "southpark-tv-module",
+  "version": "0.1.0",
+  "description": "Experimental remote-control interface for the official South Park website. TV playback is not yet verified.",
+  "packageType": "mods",
+  "appName": "South Park TV",
+  "websiteURL": "https://www.southpark.de/seasons/south-park",
+  "main": "main.js",
+  "evaluateScriptOnDocumentStart": false,
+  "keys": [],
+  "private": true
+}
